@@ -1,0 +1,198 @@
+
+   review 1: "Least terrible of the new trilogy. still terrible writing though."
+ 
+   review 2: "A very nice and cool way of starting the sequels. But after this, things go down hill."
+ 
+   review 3: "the sh*tshow begins, thank you disney"
+ 
+   review 4: "Of the three this was the better film, it allowed you an opportunity to actually understand where they were going with it. Even though the train crashed by the third movie. This is the one that you could watch if you did not wanna watch the others. But you want to know what happens and where it goes, so this entire trilogy just should be locked in the Disney vault."
+ 
+   review 5: "This is Episode IV New Hope repainted with modern colors and sold again under a different name. A Hero from a desert planet and a droid with something important are chased around the galaxy by an evil masked guy, who ends up killing his old (and Hero's newly found) mentor figure as the Hero is watching from a distance. Evil empire with a planet-destroying weapon included. We've seen it all before."
+
+   review 6: "Oh dear... there aren't many movies I fell asleep in."
+ 
+   review 7: "Not a bad movie. A good start to a series that flopped."
+
+   review 8: "One-dimensional, uninteresting characters, an unoriginal story, unconvincing special effects. This is what the death of a billion dollar franchise looks like. \"The Force\" should've stayed asleep in bed."
+ 
+   review 9: "I just rewatched the entire Skywalker Saga and this is the only good Disney sequel… I like how Finn is written, he is a man trying to find his way in the galaxy and succeeds by joining the Resistance. I also like Poe, BB-8, Leia, Han, and Chewie. Just Rey isn't written well but not horrible (Unlike  TLJ & RoS) The score is okay and the SFX is really good."
+
+   review 10: "ahh yes the newest form of touture... disney wars. my gold fish could write a better script than this and its been dead for 8 years. i would recommend you do something better for your health like breaking both your legs not eating for 2 weeks and riding a crockidile in to the path of an on coming train. i was hoping disney would do something good with starwars. im sorry for beliving in you disney, it wont happen agian. this was simply an affront of humanity. kathleen kennedy, Someday you'll go far. And I really hope you stay there. You're a gray sprinkle on a rainbow cupcake. i would reccomend this for absoloultly no one cause no matter what crimes you have done no one deserves this."
+
+   review 11: "I can't even believe this move has an 86 score, it was just not that good, it goes way way way too big with the force and the scale of everything, and crams every last piece of Star Wars down your throat instead of just giving you a good story."
+ 
+   review 12: "This is the movie that ruined Star Wars OT and set a bad example for the subsequent movies in the sequel trilogy."
+ 
+   review 13: "damn that was just so bad."
+ 
+   review 14: "The best out of the sequel trilogy it feels like a roller coaster throughout 8/10"
+ 
+   review 15: "The worst Star Wars film of all time, has no plot and characters had so much potential . The only good bit is that they have a lady Jedi"
+
+   review 16: "Please stop making movies without real fan directors."
+
+   review 17: "A really fun re introduction to Star Wars!"
+
+   review 18: "the next chapter in Star Wars saga feels too much like its copying the originals, but its still exciting and a very entertaining movie."
+
+   review 19: "Uninspired cash grab."
+ 
+   review 20: "The best of the Disney trilogy. The movie is made worse by the two that come after it."
+ 
+   review 21: "This is not my Star Wars. Its a poorly made copy of the original with unlikable characters."
+ 
+   review 22: "Its ok-er that the other two movies, but still bad."
+ 
+   review 23: "Nothing original, literally just a retelling of the first star wars, (Child is picked up from desert planet, they go on space adventure and meet up with rebellion to destroy planet killing weapon, mentor dies to black masked villain, and the MC manages to win the day by stop overthinking things and trust their gut- trust the force.) but they nailed the atmosphere. It feels like Star Wars, just with a fresh coat of paint, and new characters."
+ 
+   review 24: "You are better off just watching the original movies."
+ 
+   review 26: "Kind of copied the original, but the set up is there and the characters are good. Just sucks they are later ruined and you don't care about them all later down the line in the trilogy."
+ 
+   review 27: "Have u ever wanted to be blue balled by one of the most successful franchises ever! Well here ya go. It starts off strong, but does quickly. It had potential but it disappoints more than u disappointed your dad"
+ 
+   review 28: "Another great star wars movie right beside Rogue One"
+ 
+   review 29: "Just a lazy movie that copied most of the plot of the original movie without any of the originality, interesting characters or novelty. 2 stars for the great visuals, but everything else was lacking."
+
+   review 30: "I thought this was a welcome return to form for the Star Wars franchise. It feels nostalgic, charming and has a sense of what came before it. However if you're looking for anything new in the Star Wars verse you're not going to find it here."
+ 
+   review 31: "Not a bad way to reboot the franchise essentially. Kind of similar plot to a new hope but it does enough new stuff to not feel the same."
+
+   review 32: "As a starwars fan I'm very disappointed inthis movie mainly because it's scared to do anything new or to reference prequels.\nIf it was my personal opinion I would've given it 1 star but objectively it's truly average. Very disappointing."
+
+   review 33: "Dispite this being a ripoff of Episode IV it´s still the best of the sequels. Interesting new characters and great visuals. Acting is solid. Everything looks like you can really touch it (unlike in the prequels). The real shame is that you never see Han, Luke and Leia together. I wonder if it was really necessary to have Leia´s and Han´s relationship fail but I guess the new generation of filmmakers can leave nothing good from the past untouched..."
+
+   review 34: "Finally I can enjoy this franchise, apparently all it took was to remove Lucas."
+
+   review 35: "Should stay in drafts.... something nobody needed but somehow we got it."
+
+   review 36: "Just like the rest of the sequel trilogy it was just a remake of its original counterpart with nothing original added to it."
+
+   review 37: "A disastrous story only mitigated by the nice visuals. Clearly no-one cared to try and bring in new characters in a way that would build on the existing ones or would align with the existing lore."
+
+   review 38: "Pretty much a good movie, some scenes are quite bad, but generally a good movie."
+
+   review 39: "My hopes were high for this, it started off good, but then it seems the direction gave up. It's OK. Kylo Ren was the best character, and when you find yourself hoping the bad guy wins, it's a bad sign for the rest of the movie."
+
+   review 40: "Was so exciting at the time, yet formulaic retread disappointed in the end."
+
+   review 41: "Good start, this could have been the first movie of a great trilogy. Sadly, it went downhill from there"
+ 
+   review 42: "We could have had so much, but we got this."
+ 
+   review 43: "This is a very overrated movie.  It pretty much copied the Original Trilogy but worse.  Disney should have just done what George Lucas planned."
+
+   review 44: "Great start to the sequel trilogy. Great cast and great story"
+ 
+   review 45: "New Hope remake, but worth watching"
+
+   review 46: "Why did this trilogy happen?  So bad.  But hey, this one isn't quite as awful as the other two."
+ 
+   review 47: "The film starts well, although from the beginning there is a feeling of déjà vu and an obvious lack of attention to constructing on the previous films. It simply starts again, with new villains, a new order of villains, emphasizing from the credits that everything that was done in the last trilogy was in vain. Okay... But then, from a certain point in the movie until the end, the movie is... a direct replica of Star Wars A New Hope! Seriously? On top of that, in addition to the very empty, cheesy and already heard dialogues about the Jedis or the force, the movie completely ruins some fundamental principles of Star Wars: how can someone without training fight a Sith and use a lightsaber decently? The film looks like a showbiz maneuver to recruit a new generation, but for Star Wars fans, it may look like a betrayal."
+
+   review 48: "It is basically a remake of A New Hope, but a damn fine one with thrilling pacing and superior visuals. It also reminds us of what a movie star Harrison Ford is. Nearly perfect. (I do not care for the casting blunder for Kylo. What were they thinking?)"
+
+   review 49: "An alright start to a new series."
+
+   review 50: "should have never been made."
+ 
+   review 51: "Honestly it is just a cash grab and a remake of Episode IV. Not a bad movie to watch but it could have been better."
+
+   review 52: "The film is a mere carbon copy of the beloved first film now titled \"A New Hope\". The creators showed no initiative or imagination and ultimately began a trilogy that would drain the life out of the franchise. On its own it's a watchable movie. But that's only due to the success of it's copied template."
+ 
+   review 53: "Rey's setup is good, ending fantastic. Bit gimmicky at times though."
+ 
+   review 54: "star wars is all you have to say"
+ 
+   review 55: "This movie represents the beginning of the end of Star Wars."
+ 
+   review 56: "The best visual effects ever done in a movie!"
+
+   review 57: "A nostalgic reboot of the first Star Wars film"
+ 
+   review 58: "At first I thought ok that was good but the more time I spent with it I saw it was just episode 4 again with some minor difernces."
+
+   review 59: "A tear-jerking ode to the series fans know and love, the force is with this one."
+ 
+   review 60: "The best star wars movie It had it all It was and stil is so awesome"
+ 
+   review 61: "The best film out of the sequel trilogy but that is not saying much."
+
+   review 62: "its a bad reboot of a new hope, Rey is like live action Mulan no training no growth all power its boring. For me disney butcher Star Wars"
+ 
+   review: 63 "A rather soulless and unnecessary rehash, but could've at least spawned a half decent trilogy with some effort. Well, spoiler alert, the next two were quite poor, making this entry feel like a bit of a waste of time.\n\nAt least the Lego game was alright ..."
+
+   review 64: "Seems like we missed an opportunity here. So why is Han gotta be a lower. It was meh"
+
+   review 65: "An almost pointless new trilogy at least had it’s moments in mostly this movie."
+
+   review 66: "I just love it, everything!"
+
+   review 67: "Why was there a need to do this? The story is a dull remake of Episode IV. There is no sense in this, this first order comes out of the blue and who are they? Who are they fighting with? What happened to the old republic? Abrahms doesn't care he makes movies as if nothing before has happened. What an ego must this director have? Well I don't buy it, or better said I bought the ticket but this is the last Star Wars movie of Disney that I will watch in a theather."
+
+   review 68: "Great start to the new trilogy."
+
+   review 69: "The ultimate Star Wars Experience! It survives on some sly patchy plot reasoning through break out performances of its stellar cast. They should have quit while they were ahead"
+
+   review 70: "I love this movie more than a new Hope. Sue me idc"
+
+   review 71: "The Force Awakens is an impressive start to this trilogy. The new characters they introduced showed so much potential. Great work by JJ Abrams. This movie is perfect example of professional filmmaking. Love it."
+
+   review 72: "I think all movie makers should take a break from making science fiction movies. Poor acting, bad story and underwhelming pacing. These days film makers rely heavily on special effects and cgi to prop up their mediocre movie productions. There is no intimacy nor relevance to this hum bug."
+
+   review 73: "This movie successfully takes us back to a galaxy far far away. We are actually there once more. The only Disney SW movie so far, that has actually been able to do just that. The adventure lives on."
+
+   review 74: "It was a good beginning of a new era and a new generation. This movie gives us nostalgia to the original franchise back with a great build up to the new generation."
+
+   review 75: "I liked it but couldn't love it. it felt like a remake of episode IV but not done as well and they glossed over too many questions. rare combination of bored and confused at times"
+
+   review 76: "Force Awakens is an okay Star Wars film.  The action is great!  The storyline could've been more original.  At times the movie feels like a copy of A New Hope."
+
+   review 77: "I enjoyed this, as somewhat of a Star Wars newbie. I saw 'Rogue One' a while back and thought it was ok but I haven't seen other Star Wars films (that I can remember). I'm glad I gave this a go - I wasn't sure I could necessarily follow the main gist of the story but I did actually. The CGI is very good/impressive, as you'd expect. Its pretty engrossing and of course I enjoyed watching BB-8 - gotta love a cute miniature robot type being!. I think you could enjoy this if your not a massive fan of the franchise - its an enjoyable, entertaining sci-fi fantasy film with some decent CGI and a good cast, so it's worth a watcg, yeah. I would recommend this film, yes."
+
+   review 78: "I think its a good movie, but it has alot of problems and unanswered plotholes. You either love this movie or you dont like it very much. Im not sure what to think about what they did to hans character and how they just killed him of in the first movie of the trilogy. But it does have some really good moments, i also thought rey was a little annoying."
+
+   review 79: "Essentially a reboot of the old movies, with weak character development, bad pacing, and average story-telling."
+
+   review 80: "The Force Awakens brings back the series to its former glory and stature, by adding in both iconic characters and new characters in an action-packed, humorous sci-fi picture filled with crisp visuals and memorable moments."
+
+   review 81: "Monumentally ugly continuance to the original trilogy—how do I know?  I WAS THERE!  I was there in line for the first time it came to my hometown theatre and I went to see it seven nights in a row!  I was awestruck by the original movie.  This disgusting CGI piece of waste dishonors everything about its most honored and beloved original trilogy, and even the more dishonorable prequel trilogy!  \n\nPros:  Seeing the wonderful Carrie Williams and Harrison Ford again in their signature roles.  And seeing the sometimes execrable Mark Hamill back as Luke albeit thankfully with his mouth shut.\n\nCons:  Extremely WEAK plot, bad acting by the current cast (save for Oscar Isaac—he saves the flick!) and just the overall AMATEUR directing by JJ Abrams.  Stick to comics, JJ.  You really are out of your element with perhaps the most beloved SciFi franchise beyond Star Trek.  Your touch on this one proved your are either on drugs, or brain damaged."
+ 
+   review 82: "A very fun movie. A little similar to A New Hope to be sure, but the acting, comedy and action more than make up for it. Kylo Ren is a very intriguing villain, a cocky hothead to contrast with stoic Vader in the previous movies. Adam Driver is truly amazing, bringing the character to life in a very convincing way. It's fun and exciting, and I don't know what else you could want from a Star Wars movie, especially a first one. 8.2./10"
+
+   review 83: "Very good and a worthwhile entry into a beloved saga"
+ 
+   review 84: "Wow, JJ Abrams is nothing if not consistent, it reminded me of the previews of Lost back when it was on. If you're a fan of close ups featuring panting, panicked, wide eyed faces, then THIS IS YOUR MOVIE! Seriously, it was a good movie, but we get that the situation is tense, we don't need the relentless close ups to establish the drama. The plot was kind of a repeat of Episode 4, but everything was bigger and.....MORE! You would want to watch this though before going to the Last Jedi and Rise of Skywalker, which were better."
+
+   review 85: "Main character isn't all that great and it doesn't make sense for a storm trooper (John Boyega) to fight a sith lord and hold his own"
+ 
+   review 86: "JJ gets credit for making Star Wars look like Star Wars again following the overblown CGI in the prequels.  In particular, the first 15min as we get to live Rey's sad life salvaging scrap on Jakku are a great introduction to her character.  That said, there's too much copy/paste from earlier plots here, making it feel like a retread of A New Hope.  Especially as there is no explanation why we find the good guys fighting as scrappy rebels against yet another evil empire.  Whatever happened to the promise at the end of Return of the Jedi?"
+ 
+   review 87: "Movie is recycling whole saga, but had potential to grow into something bigger.\nWell ... at least it had potential. \nR.I.P sequels"
+
+   review 88: "A good reboot, although too much like episode IV."
+
+   review 89: "Loved this movie, Fin is such a breathe of fresh air into the star wars world. Love Rey being the new face of the story. Def recommend watching if your a star wars fan"
+
+   review 90: "Feels overly long and Rey's entire character is flat and mediocre at best"
+ 
+   review 91: "Great beginning, but Disney destroyed their new villan within the first minutes."
+
+   review 92: "Everything wrong with modern writing and directing all neatly wrapped up in one terrible movie."
+
+   review 93: "I love this movie. The visuals are amazing, that action is fun, and there are also some good emotional scenes. It gets hate because people don't think it is a good sequel to the OT, but I think it would've been fine is there were a prequal to this movie. It goes from the Empire falling in ROTJ to there being a new order that is taking over the galaxy, so it seems like nothing happened. I wish there were scenes where we got to see some of the new republic, but that's doesn't change my love for this movie. It introduced so many interesting new characters, and also showed some old ones. It set up the next movie perfectly, but sadly episode 8 didn't live up to the expectations."
+
+   review 94: "Yes, the movie is fantastic and definitely worth seeing, but there are several issues, the biggest of which is how cliche it is. The film's beats and plot points feel incredibly similar to the OT from the very first scene. The film never really establishes anything new because it strives so hard to be unique. People that claim it is a remake are not quite as far off, in my opinion. I was also let down by the character of Finn. Boyega does a terrific job, but his is a very underdeveloped and erratic character. felt more like comedy relief than anything else, which is unfortunate because he almost deserves to be a lead character."
+ 
+   review 95: "Best of Movies/TV Series Collection"
+
+   review 96: "Honestly, this movie was just a complete rehash of A New Hope with a splattering of The Empire Strikes Back and Return of the Jedi. The entire plot was a beat for beat repeat of what happened in the first Star Wars movie but just with different characters. There's nothing original going on here except the main villain is a comical and sniffling weakling that really doesn't create any peril or something for the protagonist to really overcome. In fact, he's easily dispatched by untrained Jedi's at the end showing that he isn't much of a challenge to overcome. The only thing that gave this movie any value was strong performances by Harrison Force, Carrie Fisher (God rest her soul), John Boyega, Oscar Isaac, Peter Mayhew and Anthony Daniels. That made it worth popcorn, but that's all about it."
+
+   review 97: "It wasn't particularly riveting, however it held my attention very well. The plot feels fairly derivitive, but the VFX are stunning and I'm a very big fan of the new cast, just a fun group of people, and I love to see the diversity."
+
+   review 98: "A fun introduction to a new era of Star Wars. Lacking some originality and character progression for the lead (she seems to have it all already), but great to see old faces back in a galaxy far, far away."
+
+   review 99: "Same thing but with a new cast mostly.. .meh."
+ 
+   review 100: "This movie is a reboot of the original Star Wars film for a new generation. Unfortunately, I was one of the old generation of children who grew up watching the original films in the 1970s, so I didn't really want a reboot but a continuation of the story George Lucas started all those years ago. Since I also didn't like the story, the new characters or the handling of the old characters it probably doesn't come as a surprise that I find this film to be another bad reboot."
